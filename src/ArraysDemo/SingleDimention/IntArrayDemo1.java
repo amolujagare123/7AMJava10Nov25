@@ -1,4 +1,4 @@
-package ArraysDemo;
+package ArraysDemo.SingleDimention;
 
 public class IntArrayDemo1 {
 

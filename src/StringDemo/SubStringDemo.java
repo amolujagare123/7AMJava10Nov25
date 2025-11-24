@@ -6,5 +6,8 @@ public class SubStringDemo {
         String str = "this is a lenovo laptop";
         System.out.println(str.substring(7));
         System.out.println(str.substring(7,22));
+
+
+        System.out.println(str.substring(5,19));
     }
 }

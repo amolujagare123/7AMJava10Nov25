@@ -4,7 +4,7 @@ public class Java1 {
 
     public int a;
     private double d;
-    char c;
+    protected char c;
     String str;  // default // Data members
 
     void display() // member function

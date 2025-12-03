@@ -10,7 +10,12 @@ public class DateDemo1 {
         System.out.println(date);
 
         SimpleDateFormat sd = new SimpleDateFormat("dd-MMMM-yyyy");
+
         String dateStr = sd.format(date);
+     //   int a1 = ob.methodName();
+
+
+
         System.out.println(dateStr);
 
 

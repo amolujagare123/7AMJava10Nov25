@@ -1,4 +1,4 @@
-package statcNFinal;
+package staticNFinal;
 
 public /*final*/ class Employee  {
 

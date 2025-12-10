@@ -26,13 +26,13 @@ public class Student2 {
 
     public static void myStaticMethod1()
     {
-        System.out.println("myStaticMethod1");
+     /*   System.out.println("myStaticMethod1");
         System.out.println("rno="+rno); // non-static - not allowed
         System.out.println("name="+name); // non-static - not allowed
         System.out.println("college="+college); // static - allowed
         myStaticMethod2(); // static - allowed
         nonStaticMethod1(); // non-static - not allowed
-        display(); // non-static - not allowed
+        display(); // non-static - not allowed*/
 
     }
 

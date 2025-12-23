@@ -30,7 +30,7 @@ public class ArrayListARemoveAllDemo {
          al2.add(13);
          al2.add(55);
          al2.add(17);
-        System.out.println("al2="+al2);
+        System.out.println("al2="+al2); //
 
         al2.removeAll(al);
 
